@@ -1,4 +1,4 @@
-#**HEY! I'M SHIVANI 👋**
+# **HEY! I'M SHIVANI 👋**
 
 ✨ **I'm a web developer and I make websites for people and local businesses!** ✨  
 
