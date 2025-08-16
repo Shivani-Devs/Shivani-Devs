@@ -8,5 +8,5 @@
 - Java  
 
 🌐 Check me out here:  
-- [Personal Website](https://yourwebsite.com)  
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedin/)  
+- [Personal Website](https://shivani-devs.github.io/Shivani.github.io/)  
+- [LinkedIn](https://www.linkedin.com/in/shivani-saravanan-/)  
